@@ -22,15 +22,13 @@ The repository contains the main implementation files required to use and study 
 ## Using the Plugin
 
 The supplied JAR file is the compiled LoadGuard-JMeter plugin. It can be added to the JMeter installation and then used within a JMeter test plan for SLO-aware workload generation.
+The source ZIP is provided for users who want to inspect, modify, rebuild, or further extend the implementation.
 
 ## Requirements
 
 - Java/JDK 17 or above
 - JMeter_5.6.3
 
-
-
-The source ZIP is provided for users who want to inspect, modify, rebuild, or further extend the implementation.
 
 ## Purpose
 
