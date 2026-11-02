@@ -25,8 +25,10 @@ The supplied JAR file is the compiled LoadGuard-JMeter plugin. It can be added t
 
 ## Requirements
 
-Java/JDK 17 or above
-JMeter_5.6.3
+- Java/JDK 17 or above
+- JMeter_5.6.3
+
+
 
 The source ZIP is provided for users who want to inspect, modify, rebuild, or further extend the implementation.
 
